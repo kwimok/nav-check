@@ -1,6 +1,6 @@
 # nav-check
 
-###Usage
+##Usage
 ```
 node app.js BEQSSF
 ```
